@@ -51,6 +51,8 @@ javac task5/*.java
 ### Step 2: Run
 java task5.BankApp
 
+---
+
 🖼️ Sample Output
 Enter your name: Md Samad Khan
 Enter account number: 1001
@@ -71,6 +73,8 @@ Account created for: Md Samad Khan
 Deposited: ₹2000
 Withdrawn: ₹500
 
+---
+
 💡 Future Enhancements
 ⌛ Save/load data using file or database
 
@@ -79,6 +83,8 @@ Withdrawn: ₹500
 🔐 Add login/authentication system
 
 📲 GUI using JavaFX or Swing
+
+---
 
 🙋‍♂️ Author
 Md Samad Khan
